@@ -23,11 +23,14 @@
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://lightzaytt.github.io/mern-movies-project",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
