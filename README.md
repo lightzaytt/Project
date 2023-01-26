@@ -28,3 +28,6 @@
 
 - 使用 RWD 響應至不同裝置上
 - 使用 Material-UI 和 SCSS 設計樣式
+- 註冊密碼經加密處理
+- 使用 MongoDB Cloud 儲存使用者帳號密碼
+- 使用 GitHub Pages 進行部署，託管伺服器則使用 Render.com
