@@ -3,7 +3,16 @@
   <a href="https://lightzaytt.github.io/mern-movies-project/" target="_blank">Demo</a>
 </h2>
 
+- Homepage
 ![](https://i.imgur.com/Hj00l0L.jpg)
+- API
+![](https://i.imgur.com/SW6SOYG.png)
+- Modal
+![](https://i.imgur.com/xzxIVQd.jpg)
+- Search
+![](https://i.imgur.com/GLwCxMn.jpg)
+- Favourite
+![](https://i.imgur.com/TCmb5Gg.png)
 
 <h2>功能介紹</h2>
 
