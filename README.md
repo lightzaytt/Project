@@ -15,7 +15,6 @@
 
 <h2>使用技術</h2>
 
-- SCSS
 - JavaScript
 - React.js
 - Fetch
@@ -23,5 +22,9 @@
 - Node.js
 - Express.js
 - MongoDB
+- VSCode
 
 <h2>作品說明</h2>
+
+- 使用 RWD 響應至不同裝置上
+- 使用 Material-UI 和 SCSS 設計樣式
