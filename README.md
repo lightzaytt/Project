@@ -1,5 +1,5 @@
 <h2 align="center">
-  mern-movies-project<br/>
+  Movies_Project_MERN<br/>
   <a href="https://lightzaytt.github.io/mern-movies-project/" target="_blank">demo</a>
 </h2>
 
