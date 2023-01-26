@@ -1,6 +1,6 @@
 <h2 align="center">
   Movies_Project_MERN<br/>
-  <a href="https://lightzaytt.github.io/mern-movies-project/" target="_blank">demo</a>
+  <a href="https://lightzaytt.github.io/mern-movies-project/" target="_blank">Demo</a>
 </h2>
 
 ![](https://i.imgur.com/Hj00l0L.jpg)
